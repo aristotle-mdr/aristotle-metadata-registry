@@ -2,11 +2,11 @@ Notice about the Aristotle Metadata Registry
 ============================================
 
 We are currently undertaking a reengineering of the Aristotle Metadata Registry to better support our community and enterprise users.
-While we undergoing this process we are exploring ways to effectively licence the Aristotle Metadata Registry that reenforces our commitment to open-source, while also supporting the our ability to continue the commercial and enterprise support our clients have come to expect.
+While we undergo this process, we are exploring ways to effectively licence the Aristotle Metadata Registry that reenforces our commitment to open-source, while also supporting the our ability to continue the commercial and enterprise support our clients have come to expect.
 
 If you are interested in using the Aristotle Metadata Registry, we are now providing the Aristotle Metadata Registry as a range of Software-as-a-Service products. This includes our flagship [enterprise-grade Aristotle Cloud Registry product](https://www.aristotlemetadata.com/cloud.html), which is provided as a fully managed standalone Software-as-a-Service product. Alternatively, you can sign up for a free account at our newly launch [aristotle.cloud](https://aristotle.cloud/account/signup/) beta service, that provides instant access to the Aristotle Metadata Registry in a traditional SaaS solution.
 
-If you'd like to learn more, contact as at hello@aristotlemetadata.com, or join us on the [Aristotle Metadata Community](https://community.aristotlemetadata.com/) to talk directly to us and our client to learn more about how the Aristotle Metadata Registry can support your organisation!
+If you'd like to learn more, contact as at hello@aristotlemetadata.com, or join us on the [Aristotle Metadata Community](https://community.aristotlemetadata.com/) to talk directly to us and our clients to learn more about how the Aristotle Metadata Registry can support your organisation!
 
 - The Aristotle Cloud Services Team!
 
