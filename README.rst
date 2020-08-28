@@ -1,4 +1,5 @@
-# Notice about the Aristotle Metadata Registry
+Notice about the Aristotle Metadata Registry
+============================================
 
 We are currently undertaking a reengineering of the Aristotle Metadata Registry to better support our community and enterprise users.
 While we undergoing this process we are exploring ways to effectively licence the Aristotle Metadata Registry that reenforces our commitment to open-source, while also supporting the our ability to continue the commercial and enterprise support our clients have come to expect.
@@ -11,7 +12,8 @@ If you'd like to learn more, contact as at hello@aristotlemetadata.com, or join 
 
 -------------
 
-## About the Aristotle Metadata Registry
+About the Aristotle Metadata Registry
+-------------------------------------
 
 Aristotle-MDR is an open-source metadata registry as described in the ISO/IEC 11179:2013 specification.
 
@@ -19,7 +21,8 @@ Aristotle-MDR represents a new way to manage and federate content built on and e
 
 By allowing organisations to run their own independent registries they are able to expose authoritative metadata along with the governance processes behind its creation, and by building upon known and open systems agencies, can deliver a stable platform for the sharing of metadata.
 
-## Screenshots of the the product
+Screenshots of the the product
+------------------------------
 
 `More screenshots available in the Aristotle Metadata Registry User Help Documentation <http://help.aristotlemetadata.com/>`_.
 
